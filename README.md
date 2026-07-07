@@ -8,7 +8,7 @@ Les accidents de la route causent des milliers de morts chaque année
 Le manque de preuves numériques rend difficile la verbalisation
 Conséquence : L'impunité sur les routes augmente les comportements dangereux et les accidents.
 
- #*2.* 🎯 *L'Objectif* 
+*2.* 🎯 *L'Objectif* 
 Créer un système intelligent basé sur des caméras et l'intelligence artificielle capable de :
 
 * Détecter les véhicules en excès de vitesse
