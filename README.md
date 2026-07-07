@@ -1,4 +1,4 @@
-##🚦 *Projet : Système de Détection d'Infractions Routières par Caméra* 
+#🚦 *Projet : Système de Détection d'Infractions Routières par Caméra* 
  
 *1.* 🔴 Le Problème
 Dans beaucoup de pays en développement, la surveillance routière est manuelle et limitée :
