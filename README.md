@@ -1,2 +1,13 @@
-# Detection-d-infraction-routi-re-par-camera
-Il s'agit de créer un système basé sur des caméras qui va détecter la vitesse des voitures sur les routes. Cela vise à réglementer l'excès de vitesse afin de lutter contre les accidents accidents
+🚦 *Projet : Système de Détection d'Infractions Routières par Caméra* 
+ *1.* 🔴 Le Problème
+Dans beaucoup de pays en développement, la surveillance routière est manuelle et limitée :
+Les agents de police ne peuvent pas être partout à la fois
+Les infractions passent souvent inaperçues (excès de vitesse, téléphone au volant, etc.)
+Les accidents de la route causent des milliers de morts chaque année
+Le manque de preuves numériques rend difficile la verbalisation
+Conséquence : L'impunité sur les routes augmente les comportements dangereux et les accidents.
+ *2.* 🎯 *L'Objectif* 
+Créer un système intelligent basé sur des caméras et l'intelligence artificielle capable de :
+* Détecter les véhicules en excès de vitesse
+* Lire les plaques d'immatriculation
+* Générer des rapports automatiques
